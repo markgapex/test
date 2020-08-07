@@ -13,6 +13,7 @@
     "sourceApiVersion": "48.0",
     "packageAliases": {
         "packageTest": "0Ho2w000000PBBQCA4",
-        "packageTest@1.0.0-1": "04t2w000006kw0FAAQ"
+        "packageTest@1.0.0-1": "04t2w000006kw0FAAQ",
+        "packageTest@1.0.0-2": "04t2w000006l1fwAAA"
     }
 }
